@@ -1,0 +1,8 @@
+# ignore train_images and train_masks folders
+train_images/*
+train_masks/*
+*.png
+*.tif
+*.tiff
+*.keras
+checkpoints/*

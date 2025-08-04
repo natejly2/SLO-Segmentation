@@ -6,3 +6,5 @@ train_masks/*
 *.tiff
 *.keras
 checkpoints/*
+!docimgs/
+!docimgs/*.png

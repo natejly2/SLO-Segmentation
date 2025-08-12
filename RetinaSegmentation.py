@@ -1,8 +1,6 @@
 import math
 import numpy as np
 import cv2
-import tensorflow as tf
-import os
 import matplotlib.pyplot as plt
 import onnxruntime as ort
 
